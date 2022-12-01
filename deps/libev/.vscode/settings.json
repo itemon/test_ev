@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "bitset": "c",
+        "ev_vars.h": "c",
+        "typeinfo": "c",
+        "__hash_table": "c",
+        "__tuple": "c",
+        "array": "c",
+        "chrono": "c",
+        "compare": "c",
+        "cstddef": "c",
+        "type_traits": "c",
+        "limits": "c",
+        "ratio": "c",
+        "tuple": "c",
+        "variant": "c",
+        "ev_wrap.h": "c"
+    }
+}
